@@ -1,12 +1,12 @@
 ## Run app
 
-1. Install and open Docker
+1. Install and open `Docker`
 2. In root directory run `docker-compose up`
 3. In your browser open `localhost` or `localhost:80`
 
 ## Project Scope
 
-I built some of the pages/features from a site i use everyday: `https://cvr.dk`. The project is built the technologies, that I should be familiar with for my internship to work on `https://www.billy.dk` starting ` 1st of January 2023``. Please refere to the folder /src/Mocks for the pages i have mocked `.
+I built some of the pages/features from a site i use everyday: `https://cvr.dk`. The project is built the technologies, that I should be familiar with for my internship to work on `https://www.billy.dk` starting ` 1st of January 2023`. Please refere to the folder `frontend/src/Mocks` for the pages i have mocked `.
 
 ## What do I want to practice in this project?
 
